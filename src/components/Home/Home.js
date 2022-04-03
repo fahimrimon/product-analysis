@@ -2,7 +2,8 @@ import React from 'react';
 import './Home.css';
 const Home = () => {
     return (
-        <div className='home-container'>
+        <div>
+            <div className='home-container'>
             <div className="text-info">
                 <h1><span>Your Next Level</span></h1>
                 <h1>Gaming Monitor!</h1>
@@ -12,8 +13,13 @@ const Home = () => {
             <div className="main-img">
                    <img src="https://www.skyland.com.bd/wp-content/uploads/2020/05/asus-vg248qg-gaming-monitor-bd-500x500-1.jpg" alt="" />
             </div>
+
         </div>
+        <div className='review-text'>
+            <h1>Customer Reviews(3)</h1>
+        </div>
+        </div>
+        
     );
 };
-
 export default Home;

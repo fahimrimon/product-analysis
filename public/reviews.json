@@ -1,0 +1,38 @@
+[
+    {
+        "id": "d1116075-10f2-49c4-985e-0d41e19ce1b3",
+        "name": "SPEAK ENGLISH",
+        "price": 110,
+        "img": "https://m.media-amazon.com/images/I/41sUbbJUBuL.jpg"
+      },
+      {
+        "id": "d1116075-10f2-49c4-985e-fg41e19dc1b8",
+        "name": "THE MATH BOOK",
+        "price": 170,
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81OrIk+OffL.jpg"
+      },
+      {
+        "id": "9e7cda87-8160-458f-bd32-ecf253a2d86a",
+        "name": "BUSSINESS ECONOMICS",
+        "price": 33,
+        "img": "https://sahityabhawanpublications.com/wp-content/uploads/2017/10/2386-Business-Economics-Book-For-Graduate-Post-Graduate-Classes-of-Various-Universities.jpg"
+      },
+      {
+        "id": "eaff8921-f7eb-446f-b072-d96559685de0",
+        "name": "MACRO ECONOMICS",
+        "price": 40,
+        "img": "https://sahityabhawanpublications.com/wp-content/uploads/2020/08/3210-Macro-Economics-Book-B.Com_.-Semester-V-Lucknow-Dr.-JP-Mishra.jpg"
+      },
+      {
+        "id": "96fd22a5-f22f-4ad8-b7b5-f1cfd0852553",
+        "name": "FRANCE -CECIL JENKINS",
+        "price": 46,
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328815858l/10815720.jpg"
+      },
+      {
+        "id": "e1a7c529-f91b-4ef5-a661-c2317c5c314e",
+        "name": "P.A.R.I.S -THE NOVEL",
+        "price": 20,
+        "img": "https://taleaway.com/wp-content/uploads/2019/06/books-set-in-france-paris-the-novel-edward-rutherford.jpg"
+      }
+    ]
