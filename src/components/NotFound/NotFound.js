@@ -3,8 +3,8 @@ import './NotFound.css';
 const NotFound = () => {
     return (
         <div className='NotFound'>
-            <h2>Your location is not available, Please try again! </h2>
-            <h4>404</h4>
+            <h1>Error!</h1>
+            <img src="https://www.pngkey.com/png/detail/147-1473883_404-error-404-not-found-png.png" alt="" />
         </div>
     );
 };
