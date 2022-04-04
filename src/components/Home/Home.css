@@ -42,3 +42,22 @@ img {
   text-align: center;
   margin-top: 150px;
 }
+.all-review a{
+  text-decoration: none;
+  padding: 5px 30px 5px 30px;
+  color: blue;
+  background-color: lightblue;
+  border: none;
+  font-size: 20px;
+  border-radius: 5px;
+
+}
+.all-review{
+  text-align: center;
+  margin: 60px 0px 70px 0px;
+}
+.all-review a:hover{
+  color: white;
+  background-color: blueviolet;
+}
+
