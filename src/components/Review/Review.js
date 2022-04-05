@@ -12,7 +12,7 @@ const Review = (props) => {
             </div>
             <div className="text-info">
                  <h2>Name: <span>{name}</span></h2>
-                 <p>{commend}</p>
+                 <p><span style={{"font-weight":"bold"}} >Review: </span>{commend}</p>
                  <h5>Ratings: <span className='star-icon'><FontAwesomeIcon icon={faStar} /><FontAwesomeIcon icon={faStar} /><FontAwesomeIcon icon={faStar} /><FontAwesomeIcon icon={faStar} /><FontAwesomeIcon icon={faStarHalf} /></span><span>{rating}</span></h5>
                  
             </div>
